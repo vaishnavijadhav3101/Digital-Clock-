@@ -1,15 +1,15 @@
-# Calculator (Python Tkinter)
+# Digital Clock (Python)
 
-A simple GUI-based calculator built using Python and Tkinter.
+A real-time digital clock created using Python and Tkinter.
 
 ## Features
-- Basic arithmetic operations
-- Clean and user-friendly interface
-- Button-based input system
+- Displays current time dynamically
+- Simple and clean GUI
+- Auto-refresh every second
 
 ## Tech Stack
 - Python
 - Tkinter
 
 ## Description
-This calculator performs basic operations like addition, subtraction, multiplication, and division. It helps in understanding GUI design and user interaction in Python.
+This project shows the current system time in a digital format. It updates every second and demonstrates time-based functions and GUI integration.
